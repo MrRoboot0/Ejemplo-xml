@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiante>
+  <estudiante>
+    <nombre>martin guerra</nombre>
+    <correo>mx@gmail.com</correo>
+    <Telefono>91146541</Telefono>
+    <codigo>54849</codigo>
+    <Carrera>informatica</Carrera>
+  </estudiante>
+</estudiante>
